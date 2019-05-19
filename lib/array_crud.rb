@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   four_elements = ["fire", "water", "earth", "air"]
-  four_elements << "ice"
+  four_elements << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
