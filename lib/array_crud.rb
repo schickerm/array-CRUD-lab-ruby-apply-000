@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  elements = ["fire", "water", "earth", "air"]
-elements << "ice"
+  four_elements = ["fire", "water", "earth", "air"]
+  four_elements << "ice"
 end
 
 def add_element_to_start_of_array(array, element)
