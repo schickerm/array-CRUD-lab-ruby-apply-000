@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  push("ice")
-endcreate_an_array.
+push("ice")
+end
 
 def add_element_to_start_of_array(array, element)
   create_an_array.unshift("ice")
